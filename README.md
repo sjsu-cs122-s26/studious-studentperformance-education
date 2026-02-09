@@ -1,2 +1,16 @@
-# studious-studentperformance-education
-Analysis of student academic performance factors such as study hours, attendance, sleep, and parental support using Python.
+Team Name:
+Studious
+
+Team Members:
+- George Khalil
+- Jay Ma
+- Thaneesha Singh
+- Xueyan Xian
+
+Dataset:
+Student Academic Performance Dataset
+
+Dataset Description:
+This dataset contains information about students' study habits, attendance, sleep, parental involvement, and academic performance.
+
+
