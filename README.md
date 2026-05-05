@@ -86,7 +86,7 @@ studious-studentperformance-education/
 │   └── StudentPerformanceFactors.csv
 │
 ├── notebooks/
-│   └── Project_Assignment_02.ipynb
+│   └── CS122_Group3_Project.ipynb
 │
 ├── README.md
 └── .gitignore
@@ -105,7 +105,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 2. Open the notebook:
 
 ```text
-notebooks/Project_Assignment_02.ipynb
+notebooks/CS122_Group3_Project.ipynb
 ```
 
 3. Run all cells
